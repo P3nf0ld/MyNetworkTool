@@ -1,4 +1,3 @@
-﻿
 <#
 
     Author: Pen Warner
